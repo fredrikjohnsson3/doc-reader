@@ -1,3 +1,10 @@
+Work in progress. 
+
+This is meant to be a template for using the mindee document scanner API in typescript react apps. 
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
